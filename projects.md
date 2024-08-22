@@ -8,27 +8,25 @@ title: Projects
 <div class="projects-container">
   
   <div class="project-card">
-    <h2>Leveraging Natural Language Processing for Public Health Screening of COVID-19</h2>
-    <p>The COVID-19 pandemic has attracted a lot of public interest, with people sharing their experiences of symptoms and recovery from this virus on social media
-platforms such as YouTube. This offers an opportunity to contribute to present
-and future public health screening efforts aimed to fight pandemics. Leveraging COVID-19-related data on YouTube, an automatic system could be created
-using Automatic Speech Recognition (ASR) tools to analyze speech and match
-symptoms with those in this data to determine if an individual has COVID-19.
-This approach could potentially detect COVID-19 at an early stage, enabling
-prompt public health response to stop the spread of this virus. Overall, content
-analysis of COVID-19-related vlogs on YouTube and ASR tools could prove to
-be a productive means of enhancing public health surveillance efforts during the
-COVID-19 pandemic.</p>
+    <h2>NLP-Based Classification and Severity Assessment of Anxiety and Mental Health Conditions</h2>
+    <p>This project explores the application of Natural Language Processing (NLP) techniques for symptom classification and severity assessment in mental health contexts. The study consists of two main tasks: binary classification to identify the presence of anxiety-related symptoms, and multiclass classification to categorize symptom severity.
+The methodology includes comprehensive text preprocessing, exploratory data analysis using word clouds and topic modeling, and the implementation of various machine learning algorithms. For the binary classification task, Random Forest with Grid Search CV emerged as the top-performing model, achieving 93% accuracy. In the multiclass severity classification task, Naive Bayes with feature engineering proved most effective, attaining 91% accuracy.
+The project demonstrates the potential of NLP and machine learning in automating the analysis of mental health-related text data, which could have significant implications for early symptom detection and severity assessment in clinical settings. The findings suggest that these techniques can provide valuable insights for mental health professionals, potentially improving diagnosis and treatment strategies.
+</p>
   </div>
   
   <div class="project-card">
-    <h2>Sentiment and Word Cloud Analysis of FIFA World Cup 2022 Tweets</h2>
-    <p>The study analyzed 22,524 English tweets with the hashtag WorldCup2022 to investigate the sentiments expressed on Twitter during the event. The researchers used Natural Language Processing techniques, including VADER sentiment and Word Clouds, to determine positive and negative sentiments. The findings showed that while sports events tend to evoke positive emotions, negative sentiments were also prevalent, particularly regarding human and migrant rights in the host nation. The research concluded that Natural Language Processing is an efficient approach for detecting public emotions from textual data, and social media platforms can be a valuable source of data for understanding public sentiment.</p>
+    <h2>Sentiment Classification using Advanced Data Analytics for ChatGPT</h2>
+    <p>Explored advanced data visualization techniques to analyze ChatGPT discussions on
+Twitter. Investigated public perceptions of ChatGPT using Python and Weka and
+conducting sentiment analysis.</p>
   </div>
   
   <div class="project-card">
-    <h2>Sentiment Classification of Russia vs Ukraine Tweets</h2>
-    <p>In this project, I utilized Natural Language Processing (NLP) techniques to analyze tweets about the Russia-Ukraine conflict. I performed sentiment analysis to classify emotions as positive, negative, or neutral. Using Term Frequency - Inverse Document Frequency (TF-IDF), I identified significant keywords, and applied Latent Dirichlet Allocation (LDA) for topic modeling to uncover underlying themes in the tweets. This analysis provided insights into public sentiment and the main topics discussed in relation to the conflict.
+    <h2>University Grading System Enhancement</h2>
+    <p>As a Research Assistant, contributed to improving the university grading system by
+introducing a novel relative grading approach. Applied data-driven methodologies to
+enhance precision and fairness.
 
 </p>
   </div>
