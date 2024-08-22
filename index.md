@@ -92,7 +92,7 @@ body {
     <strong>CGPA:</strong> 3.94/4.00<br>
     <strong>Dissertation:</strong> An Explainable AI Approach to Speech-Based Alzheimer's Dementia Screening<br>
     <strong>Honors:</strong> Posgraduate First Position Holder<br>
-    <strong>Specializations:</strong> Explainable Artificial Intelligence, Machine Learning, Handcrafted features
+    <strong>Specializations:</strong> Explainable Artificial Intelligence, Machine Learning, Handcrafted features<br>
     <br>
     
     <p><strong>Bachelor of Engineering (B.E) in Telecommunication</strong><br>
