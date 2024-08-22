@@ -9,10 +9,6 @@
             <p class="certificate-description">In this course I have learned how to create a database instance on the cloud. I have practiced basic SQL hands-on on a live database. Basic concepts related to using Python to connect to databases, create tables, load data, query data using SQL and analyze data using Python in Jupyter Notebook. </p>   
         </li>
         
-        <li class="certificate-item">
-            <a href="https://ahrarbinaslam.github.io/Ahrar%20HCIA-Datacom%20Certificate.pdf" class="certificate-title" download>HCIA-Datacom Certified</a>
-            <p class="certificate-description">Completed Huawei's HCIA-Datacom certification, gaining expertise in data communication and networking.</p>
-        </li>
         
         <li class="certificate-item">
             <a href="https://www.coursera.org/account/accomplishments/verify/VMYZRFLMRN7Z?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse" 
