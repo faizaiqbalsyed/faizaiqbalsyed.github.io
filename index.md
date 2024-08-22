@@ -86,6 +86,7 @@ body {
 <!-- Education -->
 <div class="container content-section">
     <h2 class="section-title">Education</h2>
+    
     <p><strong>Master of Science (M.Sc.) in Data Science</strong><br>
     <a href="https://www.muet.edu.pk" target="_blank">Mehran University of Engineering and Technology</a> | Jamshoro, Pakistan (Feb 2023 - Present)</p>
     <strong>CGPA:</strong> 3.94/4.00
@@ -95,11 +96,11 @@ body {
     <br>
     
     <p><strong>Bachelor of Engineering (B.E) in Telecommunication</strong><br>
-    <a href="https://www.muet.edu.pk/" target="_blank">Mehran University of Engineering and Technology</a> | Jamshoro, Pakistan (Oct 2018 - Dec 2022)
+    <a href="https://www.muet.edu.pk/" target="_blank">Mehran University of Engineering and Technology</a> | Jamshoro, Pakistan (Oct 2018 - Dec 2022)</p>
     <strong>CGPA:</strong> 3.89/4.00
     <strong>Dissertation:</strong> Evaluating feasibility of implementing Homomorphic Encryption<br>
     <strong>Honors:</strong> Annual Scholarship Holder, Top 10 Student in Bachelors<br>
-    <strong>Specializations:</strong> Data Security, Computer Networking, Machine Learning</p>
+    <strong>Specializations:</strong> Data Security, Computer Networking, Machine Learning
 </div>
 
 <!-- Languages -->
