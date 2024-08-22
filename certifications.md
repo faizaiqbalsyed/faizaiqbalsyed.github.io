@@ -24,7 +24,7 @@
         
         <li class="certificate-item">
             <a href="https://faizaiqbalsyed.github.io/Programming_essentials.pdf" class="certificate-title" download>PCAP: Programming Essentials in Python</a>
-            <p class="certificate-description">PCAP: Programming Essentials in Python</p>
+            <p class="certificate-description"></p>
         </li>
 
         <li class="certificate-item">
