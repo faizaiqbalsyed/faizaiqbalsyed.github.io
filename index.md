@@ -89,7 +89,7 @@ body {
     
     <p><strong>Master of Science (M.Sc.) in Data Science</strong><br>
     <a href="https://www.muet.edu.pk" target="_blank">Mehran University of Engineering and Technology</a> | Jamshoro, Pakistan (Feb 2023 - Present)</p>
-    <strong>CGPA:</strong> 3.94/4.00
+    <strong>CGPA:</strong> 3.94/4.00<br>
     <strong>Dissertation:</strong> An Explainable AI Approach to Speech-Based Alzheimer's Dementia Screening<br>
     <strong>Honors:</strong> Posgraduate First Position Holder<br>
     <strong>Specializations:</strong> Explainable Artificial Intelligence, Machine Learning, Handcrafted features
@@ -97,10 +97,10 @@ body {
     
     <p><strong>Bachelor of Engineering (B.E) in Telecommunication</strong><br>
     <a href="https://www.muet.edu.pk/" target="_blank">Mehran University of Engineering and Technology</a> | Jamshoro, Pakistan (Oct 2018 - Dec 2022)</p>
-    <strong>CGPA:</strong> 3.89/4.00
+    <strong>CGPA:</strong> 3.89/4.00<br>
     <strong>Dissertation:</strong> Evaluating feasibility of implementing Homomorphic Encryption<br>
     <strong>Honors:</strong> Annual Scholarship Holder, Top 10 Student in Bachelors<br>
-    <strong>Specializations:</strong> Data Security, Computer Networking, Machine Learning
+    <strong>Specializations:</strong> Data Security, Computer Networking, Machine Learning<br>
 </div>
 
 <!-- Languages -->
