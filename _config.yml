@@ -1,10 +1,11 @@
 title: "Faiza Iqbal"
-logo: "/assets/Faiza-img.jpeg"
-
-description: >
-  I am a master's student of Data Science at Mehran University of Engineering and Technology. I completed my Bachelor's in Telecommunications Engineering.
-  I specialize in managing complex data and developing innovative solutions, such as a university website for optimizing data handling. My research 
-  focuses on linguistic features and Explainable AI in Alzheimer’s dementia. With expertise in Python, Machine Learning, and SQL Server. You can 
-  contact me via email or LinkedIn.
-
-theme: jekyll-theme-dinky
+description: "I am a master's student of Data Science at Mehran University of Engineering and Technology. I completed my Bachelor's in Telecommunications Engineering. I specialize in managing complex data and developing innovative solutions, such as a university website for optimizing data handling. My research focuses on linguistic features and Explainable AI in Alzheimer’s dementia. With expertise in Python, Machine Learning, and SQL Server. You can contact me via email or LinkedIn."
+theme: jekyll-theme-minimal
+logo: "assets/Faiza-img.jpeg"
+url: "https://faizaiqbalsyed.github.io"
+author:
+  name: "Faiza Iqbal"
+  email: "faiza.iqbal@admin.muet.edu.pk"
+  social:
+    linkedin: "https://www.linkedin.com/in/faiza-iqbal-4b449121a"
+    github: "https://github.com/faizaiqbalsyed"

@@ -66,42 +66,40 @@ body {
 
 <!-- Header Title -->
 <div class="container text-center my-4">
-    <h1 class="header-title">Ahrar Bin Aslam</h1>
+    <h1 class="header-title">Faiza Iqbal</h1>
 </div>
 
 <!-- Introduction -->
 <div class="container content-section">
-    <p class="lead">I am a master's student of Cybersecurity at <strong><a href="https://www.uni-saarland.de/en/home.html" target="_blank">Universität des Saarlandes</a></strong>. I completed my Bachelor's in Telecommunications Engineering from <strong><a href="https://www.muet.edu.pk/" target="_blank">Mehran University of Engineering and Technology</a></strong> by securing the first position in my batch. I have a deep interest in cybersecurity, artificial intelligence, and machine learning.</p>
-</div>
-
-<!-- Address -->
-<div class="container content-section">
-    <h2 class="section-title">Address</h2>
-    <p>Bahnstraße 26, Saarbrücken, Deutschland</p>
+    <p class="lead">I am a master's student of Data Science at <strong><a href="https://www.muet.edu.pk/" target="_blank">Mehran University of Engineering and Technology</a></strong>. I completed my Bachelor's in Telecommunications Engineering. I specialize in managing complex data and developing innovative solutions, such as a university website for optimizing data handling. My research focuses on linguistic features and Explainable AI in Alzheimer’s dementia. With expertise in Python, Machine Learning, and SQL Server. You can contact me via email or LinkedIn.</p>
 </div>
 
 <!-- Contact Information -->
 <div class="container content-section">
     <h2 class="section-title">Contact</h2>
     <div class="contact-links">
-        <p><strong>Email:</strong> <a href="mailto:ahas00001@stud.uni-saarland.de">ahas00001@stud.uni-saarland.de</a></p>
-        <p><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/ahrarbinaslam23" target="_blank">linkedin.com/in/ahrarbinaslam23</a></p>
-        <p><strong>Google Scholar:</strong> <a href="https://scholar.google.com/citations?user=TjNDuj0AAAAJ&hl=en" target="_blank">Ahrar Bin Aslam</a></p>
-        <p><strong>Medium:</strong> <a href="https://medium.com/@ahrarbaslam23" target="_blank">Ahrar Bin Aslam</a></p>
-    </div>
+        <p><strong>Email:</strong> <a href="mailto:faiza.iqbal@admin.muet.edu.pk">faiza.iqbal@admin.muet.edu.pk</a></p>
+        <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/faiza-iqbal-4b449121a" target="_blank">https://www.linkedin.com/in/faiza-iqbal-4b449121a</a></p>
+            </div>
 </div>
 
 <!-- Education -->
 <div class="container content-section">
     <h2 class="section-title">Education</h2>
-    <p><strong>Master of Science (M.Sc.) in Cybersecurity</strong><br>
-    <a href="https://www.uni-saarland.de/en/home.html" target="_blank">Universität des Saarlandes</a> | Saarland, Germany (Oct 2024 - Present)</p>
+    <p><strong>Master of Science (M.Sc.) in Data Science</strong><br>
+    <a href="https://www.muet.edu.pk" target="_blank">Mehran University of Engineering and Technology</a> | Jamshoro, Pakistan (Feb 2023 - Present)</p>
+    <br>
+    <strong>CGPA:</strong> 3.94/4.00<br>
+    <strong>Dissertation:</strong> An Explainable AI Approach to Speech-Based Alzheimer's Dementia Screening<br>
+    <strong>Honors:</strong> Posgraduate First Position Holder<br>
+    <strong>Specializations:</strong> Explainable Artificial Intelligence, Machine Learning, Handcrafted features</p>
+    <br>
     <p><strong>Bachelor of Engineering (B.E) in Telecommunication</strong><br>
     <a href="https://www.muet.edu.pk/" target="_blank">Mehran University of Engineering and Technology</a> | Jamshoro, Pakistan (Oct 2018 - Dec 2022)<br>
-    <strong>CGPA:</strong> 3.95/4.00<br>
-    <strong>Dissertation:</strong> Leveraging Natural Language Processing for Public Health Screening of COVID-19<br>
-    <strong>Honors:</strong> Undergraduate First Position Holder<br>
-    <strong>Specializations:</strong> Computer Programming, Computer Networking, Machine Learning</p>
+    <strong>CGPA:</strong> 3.89/4.00<br>
+    <strong>Dissertation:</strong> Evaluating feasibility of implementing Homomorphic Encryption<br>
+    <strong>Honors:</strong> Annual Scholarship Holder, Top 10 Student in Bachelors<br>
+    <strong>Specializations:</strong> Data Security, Computer Networking, Machine Learning</p>
 </div>
 
 <!-- Languages -->
@@ -109,7 +107,6 @@ body {
     <h2 class="section-title">Languages</h2>
     <ul>
         <li>English (CEFR C1)</li>
-        <li>Deutsch (CEFR A1)</li>
     </ul>
 </div>
 
@@ -117,9 +114,9 @@ body {
 <div class="container content-section">
     <h2 class="section-title">Skills</h2>
     <ul>
-        <li><strong>Programming Languages:</strong> Python, MATLAB, C++</li>
-        <li><strong>Libraries:</strong> Numpy, Pandas, Matplotlib, NLTK, SpaCy, Scikit-Learn</li>
-        <li><strong>Tools & Technologies:</strong> Cybersecurity, Data Science, Cisco Packet Tracer, eNSP, Linux, Latex, MS Office, Wireshark, PowerBI</li>
+        <li><strong>Programming Languages:</strong> Python, MATLAB, C++, CSS, PHP</li>
+        <li><strong>Libraries:</strong> Numpy, Pandas, Matplotlib, NLTK, SpaCy, Scikit-Learn, LIME, SHAP</li>
+        <li><strong>Tools & Technologies:</strong> Data Science, Cisco Packet Tracer, eNSP, Linux, Latex, MS Office, Wireshark, PowerBI, Weka, SQL Server</li>
     </ul>
 </div>
 
