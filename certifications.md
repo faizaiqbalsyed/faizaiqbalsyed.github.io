@@ -13,13 +13,13 @@
         <li class="certificate-item">
             <a href="https://www.coursera.org/account/accomplishments/verify/VMYZRFLMRN7Z?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse" 
             download>What is Data Science?</a>
-            <p class="certificate-description">What is Data Science?</p>
+            <p class="certificate-description"></p>
         </li>
         
         <li class="certificate-item">
             <a href="https://www.coursera.org/account/accomplishments/verify/KYAR73DYYANJ?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse" 
             download>Programming for Everybody (Getting Started with Python)</a>
-            <p class="certificate-description">Programming for Everybody (Getting Started with Python)</p>
+            <p class="certificate-description"></p>
         </li>
         
         <li class="certificate-item">
