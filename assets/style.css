@@ -294,7 +294,7 @@ body {
 }
 /* Footer Styles */
 .site-footer {
-    background: linear-gradient(135deg, #5bacfc 0%, #004b8d 100%);
+    background: linear-gradient(135deg, #2c2a4a 0%, #4b0082 100%); /* Dark navy to dark purple gradient */
     color: #fff;
     padding: 1rem;
     position: relative;
@@ -336,7 +336,8 @@ body {
     left: 50%;
     width: 300%;
     height: 300%;
-    background: rgba(255, 255, 255, 0.2);
+    
+background: linear-gradient(135deg, #2c2a4a 0%, #4b0082 100%); /* Dark navy to dark purple gradient */
     transform: translate(-50%, -50%) scale(0);
     transition: transform 0.5s ease;
     border-radius: 50%;
