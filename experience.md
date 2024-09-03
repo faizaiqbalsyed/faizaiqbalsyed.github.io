@@ -12,7 +12,7 @@ title: Experience
 - Utilizing my skills in PHP, HTML, and CSS to create a user friendly web portal for the RADAR Center, making information more accessible and improving data retrieval processes.
   
 ### Research Assistant - Examination Department
-- **[Mehran University of Engineering and Technology](https://www.muet.edu.pk/)** | **Jamshoro, Pakistan - (May 2023 - Nov 2024)**
+- **[Mehran University of Engineering and Technology](https://www.muet.edu.pk/)** | **Jamshoro, Pakistan - (May 2023 - Nov 2023)**
 
 - Utilized my IT skills in the university’s examination department, including database administration, management of
 website, web portals, and server. I also managed the QOBE software, ensuring its efficient operation for exam processes.
