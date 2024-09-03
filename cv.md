@@ -78,7 +78,7 @@ title: CV
     <h2>CV</h2>
     <p>You can download my CV from the link below:</p>
     <div class="cv-buttons">
-        <a href="https://faizaiqbalsyed.github.io/Faiza_Iqbal.pdf" class="cv-button cv-button-english" download>
+        <a href="https://faizaiqbalsyed.github.io/Faiza_Iqbal___Resume" class="cv-button cv-button-english" download>
             Download English CV
         </a>
         
