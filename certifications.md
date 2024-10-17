@@ -28,7 +28,7 @@
         </li>
 
         <li class="certificate-item">
-            <a href="https://faizaiqbalsyed.github.io/Huawei.jpeg" class="certificate-title" download>Huawei ICT Competittion 2022-23</a>
+            <a href="https://faizaiqbalsyed.github.io/Huawei.jpeg" class="certificate-title" download>Huawei ICT Competition 2022-23</a>
             <p class="certificate-description">Recognized with the Outstanding Performance Award in the Huawei ICT Competition, ranking among the top 30 students globally. Demonstrated advanced skills in Information and Communication Technology (ICT), including networking, cloud computing, and AI. Competed against numerous participants, showcasing expertise in ICT and receiving a prize.</p>
         </li>
 
