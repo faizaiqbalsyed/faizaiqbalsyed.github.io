@@ -43,5 +43,6 @@ title: Publications
 
 1. **Aslam, A. B., Iqbal, F., Talpur, U., Syed, Z. S., & Shaikh, F. K.** (2024). Artificial intelligence-enabled 6G mobile systems. In A. Bourdena, C. Mavromoustakis, E. K. Markakis, G. Mastorakis, & E. Pallis (Eds.), *Intelligent technologies for healthcare business applications* (pp. 49-79). Springer. [https://doi.org/10.1007/978-3-031-58527-2_3](https://doi.org/10.1007/978-3-031-58527-2_3).
 
-2. Iqbal, F., Syed, Z. S., Syed, M. S. S., & Syed, A. S. "An Explainable AI Approach to Speech-Based Alzheimer's Dementia Screening," Proceedings of the Satellite Workshop of Interspeech 2024, 2024. (In press)
+2. **F. Iqbal, Z. S. Syed, M. S. S. Syed, and A. S. Syed**, "An Explainable AI Approach to Speech-Based Alzheimer's Dementia Screening," in *Speech, Music and Mind 2024 (SMM24), Satellite Workshop of Interspeech 2024*, International Speech Communication Association (ISCA), 2024, pp. 11-15.
+
 
