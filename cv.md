@@ -79,7 +79,7 @@ title: CV
     <p>You can download my CV from the link below:</p>
     <div class="cv-buttons">
         <a href="https://faizaiqbalsyed.github.io/Faiza_Iqbal___Resume.pdf" class="cv-button cv-button-english" download>
-            Download English CV
+            Download CV
         </a>
         
     </div>
