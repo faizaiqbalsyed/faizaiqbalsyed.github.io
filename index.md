@@ -71,7 +71,7 @@ body {
 
 <!-- Introduction -->
 <div class="container content-section">
-    <p class="lead">I am a master's student of Data Science at <strong><a href="https://www.muet.edu.pk/" target="_blank">Mehran University of Engineering and Technology</a></strong>. I completed my Bachelor's in Telecommunications Engineering. I specialize in managing complex data and developing innovative solutions, such as a university website for optimizing data handling. My research focuses on linguistic features and Explainable AI in Alzheimer’s dementia. With expertise in Python, Machine Learning, and SQL Server. You can contact me via email or LinkedIn.</p>
+    <p class="lead">I am a master's student of Data Science at <strong><a href="https://www.muet.edu.pk/" target="_blank">Mehran University of Engineering and Technology</a></strong>. A highly skilled Research Assistant with a strong academic foundation and extensive experience in Explainable AI (XAI), Machine Learning, and Natural Language Processing (NLP). Proficient in Python programming using PyTorch, I specialize in developing interpretable AI models for critical applications such as healthcare. With a Master’s degree and a proven track record of impactful research, I am passionate about advancing ethical and transparent AI systems. I am eager to delve deeper into the field of linguistic analysis, specifically focusing on psycholinguistics to better understand how human language processing can be modeled and interpreted by AI systems. You can contact me via email or LinkedIn.</p>
 </div>
 
 <!-- Contact Information -->
