@@ -108,6 +108,7 @@ body {
     <h2 class="section-title">Languages</h2>
     <ul>
         <li>English (CEFR C1)</li>
+        <li>Deutsch (CEFR A1)</li>
     </ul>
 </div>
 
@@ -125,7 +126,7 @@ body {
 <div class="container content-section">
     <h2 class="section-title">References</h2>
     <ul>
-        <li><a href="https://scholar.google.com/citations?hl=en&user=OLku1akAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Zafi Sherhan Syed</a>, Associate Professor, Mehran University of Engineering and Technology.</li>
+        <li><a href="https://scholar.google.com/citations?hl=en&user=OLku1akAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Zafi Sherhan Syed</a>, Professor, Mehran University of Engineering and Technology.</li>
         <li><a href="https://scholar.google.com/citations?user=cKbmWfwAAAAJ&hl=en" target="_blank">Faheem Yar Khuhawar</a>, Associate Professor, Mehran University of Engineering and Technology.</li>
     </ul>
 </div>
