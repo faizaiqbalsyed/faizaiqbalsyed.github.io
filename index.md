@@ -78,7 +78,7 @@ body {
 <div class="container content-section">
     <h2 class="section-title">Contact</h2>
     <div class="contact-links">
-        <p><strong>Email:</strong> <a href="mailto:faiza.iqbal@admin.muet.edu.pk">faiza.iqbal@admin.muet.edu.pk</a></p>
+        <p><strong>Email:</strong> <a href="mailto:faiza.iqbal@hyd.szabist.edu.pk">faiza.iqbal@hyd.szabist.edu.pk</a></p>
         <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/faiza-iqbal-4b449121a" target="_blank">https://www.linkedin.com/in/faiza-iqbal-4b449121a</a></p>
             </div>
 </div>
